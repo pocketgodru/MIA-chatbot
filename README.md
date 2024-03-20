@@ -429,7 +429,7 @@ print(tokenizer.batch_decode(generated_ids)[0])
 Пример работы прототипа:
 
 
-![img](https://github.com/pocketgodru/MIA-chatbot/assets/126785140/586ce0fc-74ad-4e1e-896b-b8bec62151c4)
+[img](https://github.com/pocketgodru/MIA-chatbot/assets/126785140/586ce0fc-74ad-4e1e-896b-b8bec62151c4)
 
 
 > На данный момент не все функции добавленны в интерфейс, они находятся на стадии доработки и внедрения
